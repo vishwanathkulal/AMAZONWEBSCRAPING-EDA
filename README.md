@@ -41,6 +41,7 @@ This project involves scraping product listings of **PlayStation 5 (PS5)** from 
 - **Missing Values**:  
   - `Price`: 4 missing  
   - `Review Count`: 1 missing
+  - I performed EDA on it  to handle the missing data
 
 ---
 
